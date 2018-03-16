@@ -18,13 +18,13 @@ public class ScenesManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyUp(KeyCode.Return))
+        if (Input.GetKeyUp(KeyCode.Joystick1Button0))
         {
             Debug.Log("Name Scene: " + EnterScene);
             SceneManager.LoadScene(EnterScene);
         }
 
-        if (Input.GetKeyUp(KeyCode.Escape))
+        if (Input.GetKeyUp(KeyCode.Joystick1Button1))
         {
             if (isEscapeForQuit)
             {
