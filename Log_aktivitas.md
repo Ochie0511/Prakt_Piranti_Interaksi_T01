@@ -18,3 +18,15 @@ Minggu 1:
  > Game siap (belum konfigurasi dengan alat)
 - Kendala:
  > Joystick belum bisa terhubung dengan ponsel OS Tizen
+
+Minggu 2:
+- Target:
+ > Konfigurasi dengan alat bisa dilakukan
+- Progress:
+ > Sudah terkonfigurasi dengan VR Gear
+ > Dapat digerakkan dengan xbox one controller
+ > Menambahkan fungsi scoring dan start menu
+ 
+Minggu 3:
+- target:
+ > Polishing tampilan game
