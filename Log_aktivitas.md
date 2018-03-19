@@ -12,8 +12,8 @@ Percobaan 2 (alternatif/plan B):
 
 Minggu 1:
 - Target:
- > Game ready (belum konfigurasi dengan alat)
- > Riset menghubungkan joystick dengan OS tizen
+ > Game ready (belum konfigurasi dengan alat),
+ > Riset menghubungkan joystick dengan OS tizen,
 - Progress:
  > Game siap (belum konfigurasi dengan alat)
 - Kendala:
@@ -23,8 +23,8 @@ Minggu 2:
 - Target:
  > Konfigurasi dengan alat bisa dilakukan
 - Progress:
- > Sudah terkonfigurasi dengan VR Gear
- > Dapat digerakkan dengan xbox one controller
+ > Sudah terkonfigurasi dengan VR Gear,
+ > Dapat digerakkan dengan xbox one controller,
  > Menambahkan fungsi scoring dan start menu
  
 Minggu 3:
