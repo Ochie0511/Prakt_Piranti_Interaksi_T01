@@ -34,7 +34,7 @@ public class EnemyController : MonoBehaviour {
         if (collision.gameObject.tag.Equals("Player"))
         {
             Destroy(gameObject);
-            SceneManager.LoadScene("gameover");
+            SceneManager.LoadScene("MainMenu");
         }
         if (collision.gameObject.tag.Equals("Bullet"))
         {
@@ -45,6 +45,11 @@ public class EnemyController : MonoBehaviour {
             {
                 SceneManager.LoadScene("MainMenu"); // apabila skor mencapai 9 langsung saya setting balik lagi ke Main Menu :D
             }
+        }
+        if (collision.gameObject.name == "OVRPlayerController")
+        {
+            Destroy(gameObject);
+            SceneManager.LoadScene("MainMenu");
         }
     }
 }
